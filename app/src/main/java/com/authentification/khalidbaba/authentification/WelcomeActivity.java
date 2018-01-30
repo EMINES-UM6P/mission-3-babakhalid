@@ -27,6 +27,7 @@ public class WelcomeActivity extends Activity {
         Email = (TextView) findViewById(R.id.email);
 
 
+
         //TODO 8 : Get the intent content and show the Email in the TextView
 
         Intent i = getIntent();
